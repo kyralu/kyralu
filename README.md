@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **lu.yutin@northeastern.edu**
 
-- ⚡ Fun fact **I am a Running Lover and attended Half-Marathon on 2023/05**
+- ⚡ Fun fact **I finished a Half-Marathon on 2023/05 and about to attend 2024 Chicago Marathon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
