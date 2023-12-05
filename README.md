@@ -5,7 +5,7 @@
 
 - 😼 I hold a bachelor's degree in Electrical Engineering **and is pursuing my Master in Computer Science**
 
-- 💼 I’m currently actively looking for **2025 Spring/ Summer SDE intern**
+- 💼 I’m currently actively looking for **2024 Spring/ Summer SDE intern**
 
 - 🌱 I’m currently learning **Web Development & Algorithms**
 
