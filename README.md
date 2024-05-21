@@ -7,7 +7,7 @@
 
 - 💼 I’m currently actively looking for **2024 Spring/ Summer SDE intern**
 
-- 🌱 I’m currently learning **Web Development & Algorithms**
+- 🌱 I’m currently learning **Scalable Distributed Systems & Database Management & Web Development & Algorithms**
 
 - 👨‍💻 You can check me on [https://cs5610-seattle-fall23.github.io/resume-kyralu/](https://cs5610-seattle-fall23.github.io/resume-kyralu/)
 
