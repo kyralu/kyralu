@@ -5,15 +5,9 @@
 
 - 😼 I hold a bachelor's degree in Electrical Engineering **and is pursuing my Master in Computer Science**
 
-- 💼 I’m currently actively looking for **2024 Spring/ Summer SDE intern**
+- 📫 How to reach me **kyra.ytlu@gmail.com**
 
-- 🌱 I’m currently learning **Scalable Distributed Systems & Database Management & Web Development & Algorithms**
-
-- 👨‍💻 You can check me on [https://cs5610-seattle-fall23.github.io/resume-kyralu/](https://cs5610-seattle-fall23.github.io/resume-kyralu/)
-
-- 📫 How to reach me **lu.yutin@northeastern.edu**
-
-- ⚡ Fun fact **I finished a Half-Marathon on 2023/05 and about to attend 2024 Chicago Marathon**
+- ⚡ Fun fact **2024 Chicago Marathon Finisher**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
