@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kyra.ytlu@gmail.com**
 
-- ⚡ Fun fact **2024 Chicago Marathon Finisher**
+- ⚡ Fun fact **I am a 2024 Chicago Marathon Finisher**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
